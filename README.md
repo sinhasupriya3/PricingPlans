@@ -1,4 +1,4 @@
-# Pricing Plan Template 🚀
+# Pricing Plan Template 
 
 A responsive Pricing Plan Template built using HTML and Bootstrap. This project showcases a clean and modern design, perfect for creating professional pricing sections for websites.
 
